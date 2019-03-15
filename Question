@@ -1,0 +1,4 @@
+1. Please install JFLAP.
+2. By using JFLAP, for \alpha = {a,b}, construct DFA’s that accept the sets consisting of 
+a)	All strings with at least one a and exactly two b's. Test your DFA for the strings abb, bba, bab, bbbb, bababa.
+b)	All strings with no more than three a’s. Test your DFA for the strings b, a, abba, bbaabab, ababbaba.
